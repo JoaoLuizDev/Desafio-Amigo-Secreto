@@ -36,8 +36,8 @@
 [![VSCode](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)]()
 
 ## Deploy
-🔹 **Deploy GitHub Pages:** [Clique aqui]()  
-🔹 **Deploy Vercel:** [Clique aqui]()
+🔹 **Deploy GitHub Pages:** [Clique aqui](https://joaoluizdev.github.io/Desafio-Amigo-Secreto/)  
+🔹 **Deploy Vercel:** [Clique aqui](https://one-desafio-amigosecreto.vercel.app/)
 
 
 ## Resultado/Demonstração
